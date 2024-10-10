@@ -1,0 +1,49 @@
+{
+
+  "produtos": 
+  [
+    {
+      "nome": "Protetor de ouvido",
+      "id": 1,
+      "imagem": "../assets/produtos/protetor-de-ouvido.png",
+      "preco": "R$1,99",
+      "valor": 1.99,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "limpeza"
+    },
+
+    {
+      "nome": "Serra para arco",
+      "id": 2,
+      "imagem": "../assets/produtos/serra-para-arco.png",
+      "preco": "R$2,75",
+      "valor": 2.75,
+      "tipo": "page1",
+      "disp": true
+    },
+
+    {
+      "nome": "Disco Starret",
+      "id": 3,
+      "imagem": "../assets/produtos/disco-starret.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true
+    },
+
+    {
+      "nome": "Disco Stanley",
+      "id": 4,
+      "imagem": "../assets/produtos/disco-stanley.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    }
+
+  ]
+
+}

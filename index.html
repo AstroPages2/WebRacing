@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="shortcut icon" href="assets/logo.jpg" type="image/x-icon">
+    <link rel="stylesheet" href="css/style.css">
+    <title>Web Racing - Produtos Automotivos</title>
+</head>
+<body class="">
+
+    <!--NAV BAR-->
+    <nav class="navbar bg-body-tertiary">
+
+        <div class="container-fluid bg-dark">
+            <!--LOGO-->
+            <div class="logo d-flex justify-content-start align-items-center"><a class="navbar-brand logo"><img src="assets/logo.jpg" width="70" alt="logo-webracing"></a></div>
+            <!--SEARCHBAR-->
+            <div class="d-flex justify-content-end align-items-center search_menu">
+                <form class="searchbox d-flex justify-content-center search-form" role="search" onsubmit="redirectToSearchPage(event)">
+                    <input class="form-control me-2" type="search" placeholder="Pesquise aqui!" aria-label="Pesquisar" id="searchbar">
+                    <button class="btn btn-outline-success" type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
+                </form>
+
+                <a href="pages/carrinho.html" target="_blank"><i class="fa-solid fa-cart-shopping ms-4"></i></a>
+
+                <!--MENU ICON-->
+                <button class="navbar-toggler" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon d-flex justify-content-center align-items-center ms-1"><i class="fa-solid fa-bars"></i></span>
+                </button>
+                
+            </div>
+            <!--MENU ABERTO-->
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasNavbar" aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header">
+                    <h5 class="offcanvas-title" id="offcanvasNavbarLabel">Menu</h5>
+                    <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
+                        <li class="nav-item">
+                            <a class="nav-link active" aria-current="page" href="../">Página inicial</a>
+                            <!--
+
+                            <i class="fa-solid fa-filter-circle-dollar"></i>
+
+                            <select name="" id="">
+                                
+                                <option value="">Ordenar por preço</option>
+                                <option value="">Menor preço</option>
+                                <option value="">Maior preço</option>
+
+                            </select>
+                            -->
+                        </li>
+                        
+
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Fale com a gente
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li><a class="dropdown-item" href="">Instagram</a></li>
+                                <li><a class="dropdown-item" href="">Whatsapp</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </nav>
+    
+    <!--SLIDE-->
+    <div id="carouselExampleCaptions" class="carousel slide">
+
+
+        <div class="carousel-inner">
+
+            <div class="carousel-item active">
+            <img src="assets/banner.jpg" class="d-block desk" alt="...">
+            <img src="assets/banner-mobile.png" class="d-block mobile d-none" alt="...">
+            </div>
+
+        </div>
+
+    </div>
+
+    <div class="container mt-5">
+        <br>
+
+        <h2 class="mb-4 text-left">Produtos Automotivos</h2>
+        
+        <div class="filters d-flex">
+            <input type="checkbox" id="lubrificante" name="lubrificante" value="lubrificante">
+            <label for="lubrificante"> Lubrificante</label>
+
+            <input type="checkbox" id="limpeza" name="limpeza" value="limpeza">
+            <label for="limpeza"> Materiais para limpeza</label>
+
+            <input type="checkbox" id="polimento" name="polimento" value="polimento">
+            <label for="polimento"> Materiais para polimento</label>
+            
+            <input type="checkbox" id="adesivos" name="adesivos" value="adesivos">
+            <label for="adesivos"> Adesivos</label>
+
+            <input type="checkbox" id="abrasivos" name="abrasivos" value="abrasivos">
+            <label for="abrasivos"> Abrasivos</label>
+
+            <input type="checkbox" id="ferramentas" name="ferramentas" value="ferramentas">
+            <label for="ferramentas"> Ferramentas</label>
+
+            <input type="checkbox" id="epi" name="epi" value="epi">
+            <label for="epi"> EPI</label>
+        </div>
+        
+        <br>
+        <div id="page1" class="products-container"></div>
+        <div id="produtos-list"></div>
+    </div>
+
+    <!--
+    <div class="container mt-5" id="conjuntos">
+        <h2 class="mb-4 text-left">page2</h2>
+        <br>
+        <div id="page2" class="products-container"></div>
+    </div>
+
+    <div class="container mt-5" id="casacos">
+        <h2 class="mb-4 text-left">page3</h2>
+        <br>
+        <div id="page3" class="products-container"></div>
+    </div>
+    -->
+
+<br><br><br>
+<!--FOOTER-->
+<div class="container">
+    <footer class="footer mt-auto py-3">
+        <div class="container text-center">
+            <span class="text-muted">© 2024 Web Racing. Todos os direitos reservados. Desenvolvido por 
+            <a href="https://www.instagram.com/agenciastroweb/" target="_blank">Agência Astro</a></span>
+        </div>
+    </footer>
+</div>
+
+
+    <script src="main.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+</body>
+</html>
