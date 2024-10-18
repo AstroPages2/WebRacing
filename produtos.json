@@ -1,5 +1,4 @@
 {
-
   "produtos": 
   [
     {
@@ -12,7 +11,6 @@
       "disp": true,
       "categoria": "limpeza"
     },
-
     {
       "nome": "Serra para arco",
       "id": 2,
@@ -22,7 +20,6 @@
       "tipo": "page1",
       "disp": true
     },
-
     {
       "nome": "Disco Starret",
       "id": 3,
@@ -32,7 +29,6 @@
       "tipo": "page1",
       "disp": true
     },
-
     {
       "nome": "Disco Stanley",
       "id": 4,
@@ -42,8 +38,606 @@
       "tipo": "page1",
       "disp": true,
       "categoria": "polimento"
+    },
+    {
+      "nome": "alicatedecorte",
+      "id": 5,
+      "imagem": "../assets/produtos/alicatedecorte.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Cabodeforça",
+      "id": 6,
+      "imagem": "../assets/produtos/Cabodeforça.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Chavecombinada10mm",
+      "id": 7,
+      "imagem": "../assets/produtos/Chavecombinada10mm.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Desengraxante250",
+      "id": 8,
+      "imagem": "../assets/produtos/Desengraxante250.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "desengraxante251",
+      "id": 9,
+      "imagem": "../assets/produtos/desengraxante251.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "desengraxantepequeno",
+      "id": 10,
+      "imagem": "../assets/produtos/desengraxantepequeno.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "desengripanteChemiColor",
+      "id": 11,
+      "imagem": "../assets/produtos/desengripanteChemiColor.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Desengripanteetaniz",
+      "id": 12,
+      "imagem": "../assets/produtos/Desengripanteetaniz.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Desengripantelocttite",
+      "id": 13,
+      "imagem": "../assets/produtos/Desengripantelocttite.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "desengripanteLubFast",
+      "id": 14,
+      "imagem": "../assets/produtos/desengripanteLubFast.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "DesengripanteWhite",
+      "id": 15,
+      "imagem": "../assets/produtos/DesengripanteWhite.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "estopaPolimento",
+      "id": 16,
+      "imagem": "../assets/produtos/estopaPolimento.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "europanoazul",
+      "id": 17,
+      "imagem": "../assets/produtos/europanoazul.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "extensao30mreforcada",
+      "id": 18,
+      "imagem": "../assets/produtos/extensao30mreforcada.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Extensão 10M",
+      "id": 19,
+      "imagem": "../assets/produtos/Extensão 10M.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Extensão 30M",
+      "id": 20,
+      "imagem": "../assets/produtos/Extensão 30M.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Extensão5M",
+      "id": 21,
+      "imagem": "../assets/produtos/Extensão5M.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Fita silver tape",
+      "id": 22,
+      "imagem": "../assets/produtos/Fita silver tape.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "fita3m",
+      "id": 23,
+      "imagem": "../assets/produtos/fita3m.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Graxa sintética ABRO",
+      "id": 24,
+      "imagem": "../assets/produtos/Graxa sintética ABRO.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Graxa sintética azul ABRO",
+      "id": 25,
+      "imagem": "../assets/produtos/Graxa sintética azul ABRO.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "graxazul",
+      "id": 26,
+      "imagem": "../assets/produtos/graxazul.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Imãtipoantena",
+      "id": 27,
+      "imagem": "../assets/produtos/Imãtipoantena.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "jogodeechave",
+      "id": 28,
+      "imagem": "../assets/produtos/jogodeechave.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "jogodesoquete",
+      "id": 29,
+      "imagem": "../assets/produtos/jogodesoquete.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "kitBrocas",
+      "id": 30,
+      "imagem": "../assets/produtos/kitBrocas.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Lanterna de cabeça",
+      "id": 31,
+      "imagem": "../assets/produtos/Lanterna de cabeça.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "LimpacontatoCAR0",
+      "id": 32,
+      "imagem": "../assets/produtos/LimpacontatoCAR0.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Limpacontatoetaniz",
+      "id": 33,
+      "imagem": "../assets/produtos/Limpacontatoetaniz.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "LimpacontatoMP80",
+      "id": 34,
+      "imagem": "../assets/produtos/LimpacontatoMP80.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Limpacontatoorb",
+      "id": 35,
+      "imagem": "../assets/produtos/Limpacontatoorb.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Luva de proteção alto desempenho",
+      "id": 36,
+      "imagem": "../assets/produtos/Luva de proteção alto desempenho.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "luvabranca",
+      "id": 37,
+      "imagem": "../assets/produtos/luvabranca.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "luvaDeProtecao",
+      "id": 38,
+      "imagem": "../assets/produtos/luvaDeProtecao.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "luvaDeProtecao2",
+      "id": 39,
+      "imagem": "../assets/produtos/luvaDeProtecao2.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "LuvaDeProtecaoPano",
+      "id": 40,
+      "imagem": "../assets/produtos/LuvaDeProtecaoPano.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Luvanitrilicaespecial",
+      "id": 41,
+      "imagem": "../assets/produtos/Luvanitrilicaespecial.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "LuvaPretavinil",
+      "id": 42,
+      "imagem": "../assets/produtos/LuvaPretavinil.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "maletaGedore",
+      "id": 43,
+      "imagem": "../assets/produtos/maletaGedore.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Metasil",
+      "id": 44,
+      "imagem": "../assets/produtos/Metasil.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "MichelinLubrificante",
+      "id": 45,
+      "imagem": "../assets/produtos/MichelinLubrificante.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "oculosProtecao",
+      "id": 46,
+      "imagem": "../assets/produtos/oculosProtecao.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "oculosProtecaoPreto",
+      "id": 47,
+      "imagem": "../assets/produtos/oculosProtecaoPreto.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "panoCosturado",
+      "id": 48,
+      "imagem": "../assets/produtos/panoCosturado.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "parafusadeeiraVisco",
+      "id": 49,
+      "imagem": "../assets/produtos/parafusadeeiraVisco.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "parafusadeira",
+      "id": 50,
+      "imagem": "../assets/produtos/parafusadeira.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Pastalimpamãos",
+      "id": 51,
+      "imagem": "../assets/produtos/Pastalimpamãos.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "PROPEKBrilhopek",
+      "id": 52,
+      "imagem": "../assets/produtos/PROPEKBrilhopek.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "PROPEKGelsilicone",
+      "id": 53,
+      "imagem": "../assets/produtos/PROPEKGelsilicone.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "propekGelsilicone2",
+      "id": 54,
+      "imagem": "../assets/produtos/propekGelsilicone2.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "querosene",
+      "id": 55,
+      "imagem": "../assets/produtos/querosene.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Retalho de malha",
+      "id": 56,
+      "imagem": "../assets/produtos/Retalho de malha.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Silicone cinza visbella,jpg",
+      "id": 57,
+      "imagem": "../assets/produtos/Silicone cinza visbella,jpg.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Silicone vermelho ABRO",
+      "id": 58,
+      "imagem": "../assets/produtos/Silicone vermelho ABRO.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "SiliconecinzaABRO",
+      "id": 59,
+      "imagem": "../assets/produtos/SiliconecinzaABRO.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Siliconecinzacar80",
+      "id": 60,
+      "imagem": "../assets/produtos/Siliconecinzacar80.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "spraycobre",
+      "id": 61,
+      "imagem": "../assets/produtos/spraycobre.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Trava rosca abrolock",
+      "id": 62,
+      "imagem": "../assets/produtos/Trava rosca abrolock.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "Travaroscaabrolock",
+      "id": 63,
+      "imagem": "../assets/produtos/Travaroscaabrolock.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
+    },
+    {
+      "nome": "wd40",
+      "id": 64,
+      "imagem": "../assets/produtos/wd40.png",
+      "preco": "R$2,90",
+      "valor": 2.90,
+      "tipo": "page1",
+      "disp": true,
+      "categoria": "polimento"
     }
-
   ]
-
 }
